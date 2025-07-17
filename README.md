@@ -1,6 +1,3 @@
-Aqui está uma versão reestruturada e corrigida do seu README.md, com melhor formatação, ortografia e clareza:
-
-```markdown
 # NLW Agents - Frontend
 
 Este é o frontend do projeto **NLW Agents**, desenvolvido durante o evento **Next Level Week (NLW)** promovido pela **Rocketseat**. O objetivo do projeto é construir uma IA capaz de responder comentários em transmissões ao vivo, utilizando tecnologias modernas e boas práticas de desenvolvimento.
@@ -76,6 +73,3 @@ Os arquivos serão gerados na pasta `dist`.
 Este projeto foi desenvolvido para fins educacionais durante o evento **NLW** da **Rocketseat**.
 
 Desenvolvido com 💜 pela comunidade Rocketseat.
-```
-
-Se quiser posso personalizar com badges (ex: build passing, license MIT) ou imagens do projeto. Só avisar.
